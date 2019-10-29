@@ -14,10 +14,6 @@
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ByzantineViking/FULLSTACK-osa4/issues"
-  },
-  "homepage": "https://github.com/ByzantineViking/FULLSTACK-osa4#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
