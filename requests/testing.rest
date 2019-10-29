@@ -2,6 +2,8 @@ POST  http://localhost:3003/api/blogs
 Content-Type: application/json
 
 {
-    "name" : "aa",
-    "number": "23012312"
+    "title": "Json is ez",
+    "author": "evrybody",
+    "url": "localhost",
+    "likes": -1
 }
