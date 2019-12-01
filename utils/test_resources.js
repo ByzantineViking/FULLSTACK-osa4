@@ -23,5 +23,5 @@ const initialBlogs = [
 
 
 module.exports = {
-    initialBlogs,
+    initialBlogs
 }

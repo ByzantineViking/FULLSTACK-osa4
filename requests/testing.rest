@@ -2,8 +2,7 @@ POST  http://localhost:3003/api/blogs
 Content-Type: application/json
 
 {
-    "title": "Json is ez",
-    "author": "evrybody",
-    "url": "localhost",
-    "likes": -1
+    "title": "asd",
+    "url": "www.jne.io",
+    "likes": "22"
 }
